@@ -1,6 +1,8 @@
 # TestGit
 
 This is a readme file. 
-Now edited from within Github
+This project is a test HTML/CSS website, more for testing of Git features.
 
+///
+Now edited from within Github
 Line breaks and all
