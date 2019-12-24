@@ -1,1 +1,3 @@
-# TestGit\nthis is a readme file
+# TestGit
+
+This is a readme file. Now edited from within Github
